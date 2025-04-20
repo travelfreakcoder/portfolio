@@ -744,8 +744,7 @@ const Portfolio = () => {
                   </h3>
                   <p className="mb-4">
                    A task management system built with NextJS, Material UI and supabase(for authentication), where users can signup and on login as user can view, edit or create or delete the tasks and on login as admin, they can view the tasks of all the users. This also includes list or kanban view and can drag and drop the tasks. <br />
-                    <a href="taskmanager-gold-nine.vercel.app
-" className="site-link">
+                    <a href="https://taskmanager-gold-nine.vercel.app/" className="site-link">
                     Learn More <i className="icon-chevron-right"></i>
                   </a>
                   </p>
