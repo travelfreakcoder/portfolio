@@ -727,6 +727,40 @@ const Portfolio = () => {
                 </div>
               </div>
             </div>
+
+		  <div className="col-sm-6 col-lg-4 mb-4">
+              <div className="blog-entry">
+                <a href="#">
+                  <img
+                    src="images/wts-image.png"
+                    alt="Image placeholder"
+                    className="img-fluid"
+                    style={{height:"300px"}}
+                  />
+                </a>
+                <div className="blog-entry-text">
+                  <h3>
+                    <a href="#">Task Management System</a>
+                  </h3>
+                  <p className="mb-4">
+                   A task management system built with NextJS, Material UI and supabase(for authentication), where users can signup and on login as user can view, edit or create or delete the tasks and on login as admin, they can view the tasks of all the users. This also includes list or kanban view and can drag and drop the tasks. <br />
+                    <a href="taskmanager-gold-nine.vercel.app
+" className="site-link">
+                    Learn More <i className="icon-chevron-right"></i>
+                  </a>
+                  </p>
+
+                  {/* <div className="meta">
+                    <a href="#">
+                      <span className="icon-calendar"></span> Aug 7, 2018
+                    </a>
+                    <a href="#">
+                      <span className="icon-bubble"></span> 5 Comments
+                    </a>
+                  </div> */}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
