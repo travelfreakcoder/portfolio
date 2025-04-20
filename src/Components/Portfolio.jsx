@@ -732,7 +732,7 @@ const Portfolio = () => {
               <div className="blog-entry">
                 <a href="#">
                   <img
-                    src="images/wts-image.png"
+                    src="images/task_management.jpg"
                     alt="Image placeholder"
                     className="img-fluid"
                     style={{height:"300px"}}
