@@ -108,7 +108,7 @@ const Portfolio = () => {
               <p>
                 {/* <a href="#section-contact" className="btn btn-primary px-4 py-2 btn-sm smoothscroll">Hire Me</a> */}
                 <a
-                  href="https://drive.google.com/file/d/1ynUNkVPItnRdAP0BGopW3LeK-OC7Mq_7/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1Yc-3Z--JtDMh1cpeXgAQhWYzMIB67osz/view?usp=sharing"
                   className="btn btn-secondary px-4 py-2 btn-sm"
                 >
                   Download CV
